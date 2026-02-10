@@ -1,0 +1,12 @@
+{
+  "name": "clawzi-agent-mastery",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Skill for the Clawzi Protocol on Base",
+  "main": "SKILL.md",
+  "author": "Clawzi Prime",
+  "license": "MIT",
+  "clawdhub": {
+    "emoji": "🦞",
+    "category": "economy"
+  }
+}
